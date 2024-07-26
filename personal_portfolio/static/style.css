@@ -1,0 +1,20 @@
+
+.image {
+    padding: 70px;
+    width: 100%;
+    border-radius: 30%;
+}
+
+.title {
+    text-align: center;
+    padding: 20px;
+    color: red;
+}
+
+.one {
+    background-color: pink;
+}
+
+.two {
+    background-color: green;
+}
