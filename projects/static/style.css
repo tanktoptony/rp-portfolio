@@ -11,14 +11,6 @@
     color: red;
 }
 
-.one {
-    background-color: pink;
-}
-
-.two {
-    background-color: blue;
-}
-
 
 body {
   font-family: "Montserrat-Light";
@@ -49,11 +41,6 @@ p {
 /* css grid */
 .container-fluid {
   padding: 7% 15%;
-}
-
-/* download buttons */
-.download-button {
-  margin: 5% 3% 5% 0;
 }
 
 /* navbar adjustments */
